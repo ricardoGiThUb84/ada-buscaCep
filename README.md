@@ -38,6 +38,20 @@ $ cd ada-buscaCep
 - `NODE JS`
 - `VSCODE`
 - `Programação Assíncrona`
+- `Componetização - Shadow DOM`
+
+## Destaque no projeto
+
+Componetizar elementos html garante maior flexibilidade e reaproveitamento dos componentes em outras partes da aplicação.
+Este modelo é utilizado em diversos frameworks do mercado como: **Angular** e **React**.
+
+- Passando os valores para os atributos do componente de forma estática:
+
+![Screenshot from 2023-04-08 18-39-31](https://user-images.githubusercontent.com/94012401/230743824-076960f8-4881-4178-8dc0-7d5139473adc.png)
+
+- Passando os valores para os atributos de forma dinâmica (programação funcional):
+
+![Screenshot from 2023-04-08 18-40-12](https://user-images.githubusercontent.com/94012401/230743855-7f9464ea-62a7-4aa4-b143-45b38453d138.png)
 
 ## Autores
 
