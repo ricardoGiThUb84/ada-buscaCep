@@ -53,6 +53,14 @@ Este modelo é utilizado em diversos frameworks do mercado como: **Angular** e *
 
 ![Screenshot from 2023-04-08 18-40-12](https://user-images.githubusercontent.com/94012401/230743855-7f9464ea-62a7-4aa4-b143-45b38453d138.png)
 
+Os elementos são renderizados com tags personalizadas e os valores dos atributos são passados para a shadow-dom cujo papel é criar as tags htmls em sua própria árvore de nós html.
+
+![Screenshot from 2023-04-08 18-54-35](https://user-images.githubusercontent.com/94012401/230744160-dca4ebc2-6cf3-47b7-8859-84e31d5b194c.png)
+
+### Para saber mais sobre SHADOW-DOM
+
+[Using shadow DOM - Web Components | MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+
 ## Autores
 
 - [@ricardosilva](https://github.com/ricardoGiThUb84)
